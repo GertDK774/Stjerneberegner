@@ -1,0 +1,31 @@
+STJERNEBEREGNER
+
+Åbn stjerne_beregner.html i en browser. Filen virker uden internet.
+Du kan sende HTML-filen som vedhæftet fil i en mail.
+
+ZIP-PAKKEN
+index.html er identisk med stjerne_beregner.html.
+Udpak ZIP-filen, før du bruger eller uploader indholdet.
+
+GITHUB PAGES
+1. Opret et offentligt repository på GitHub, fx stjerneberegner.
+2. Upload index.html og .nojekyll til repositoryets rod.
+3. Under Settings > Pages vælges Deploy from a branch, main og / (root).
+4. Når publiceringen er færdig, viser GitHub den virkelige webadresse.
+5. Åbn adressen og kopier den ind i din mail.
+
+Der er ikke oprettet eller offentliggjort en hjemmeside som del af denne levering.
+Lokale downloadlinks er ikke offentlige webadresser.
+
+MÅLGRUNDLAG
+A = 1,25 × B. Standard A = 550 mm, B = 440 mm.
+Træbredde = 57 mm; savemargin = 0 mm pr. emne i alt.
+Antal = 5 A + 5 B er en redigerbar arbejdsantagelse.
+Forskydning = bredde/tan(vinkel fra langsiden).
+36 grader: 78,453769... mm ved 57 mm bredde.
+54 grader: 41,412924... mm ved 57 mm bredde.
+Forskydninger lægges ikke til de færdige A/B-længder.
+H = 2,063 × A er en UBEKRÆFTET referenceformel.
+Tegningerne er principtegninger, ikke en verificeret samleplan.
+Samlet rå længde inkluderer valgt margin, men ikke savklingens snitbredde.
+
